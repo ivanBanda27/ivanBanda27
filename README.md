@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="198" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czZ4bHRrdXV1ZXI5azRqbXAweTF2cHBncDRtd3ZrM3B1MnVjemgzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kNBLrv3JiDKw/giphy.gif"  />
+  <img height="278" src="https://64.media.tumblr.com/34834035eee8733a99179aa3d381102d/tumblr_inline_o5yb2pr0Sr1th1x9f_500.gifv"  />
 </div>
 
 ###
@@ -78,6 +78,16 @@
   <img src="https://github-profile-trophy.vercel.app?username=ivanBanda27&theme=monokai&no-frame=true&no-bg=true&column=1" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanBanda27&custom_title=Contribuciones%20de%20Ivan%20Banda&theme=redical&bg_color=6&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ahr7ezcarqu3pbkqyyjoltxxwa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ahr7ezcarqu3pbkqyyjoltxxwa&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ###
 
