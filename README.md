@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="184" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTVjcXo1M2UyNm94YXB4eXkycTB3ZW80ZXhzdWpwY2N4ajAwYWFwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BK5q771QamPcs/giphy.gif"  />
+  <img height="198" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czZ4bHRrdXV1ZXI5azRqbXAweTF2cHBncDRtd3ZrM3B1MnVjemgzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kNBLrv3JiDKw/giphy.gif"  />
 </div>
 
 ###
@@ -11,15 +11,15 @@
   <a href="https://discord.gg/p9JBWc9s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ivanBanda27?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:ivanBanda27?theme=sketch-2&padding=5&offset=2&scale=2&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🧑‍🎓Estudiante de Ingeniería de Sistemas y Computación 💻<br>📍Colombia/Cartagena🏖️<br><br>- 🔭 He trabajado en proyectos sobresalientes 🚧<br>- 📚 Generalmente aprendo herramientas destacadas 🕶️<br>- ⚡ En mi tiempo libre toco la guitarra 🎸</p>
+<p align="left">🧑‍🎓Estudiante de Ingeniería de Sistemas y Computación 💻<br><br>📍Colombia/Cartagena🏖️<br><br>- 🔭 He trabajado en proyectos sobresalientes 🚧<br>- 📚 Generalmente aprendo herramientas destacadas 🕶️<br>- ⚡ En mi tiempo libre toco la guitarra 🎸</p>
 
 ###
 
@@ -57,11 +57,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
