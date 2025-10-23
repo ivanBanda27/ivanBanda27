@@ -18,13 +18,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:ivanBanda27?theme=sketch-2&padding=5&offset=2&scale=2&align=top&pixelated=1&darkmode=1"  />
-</div>
-
-###
-
-<h1 align="center">Ivan Banda👋</h1>
+<h1 align="center">🦉 Ivan Banda 🦇</h1>
 
 ###
 
@@ -78,16 +72,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=ivanBanda27&theme=monokai&no-frame=true&no-bg=true&column=1" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanBanda27&custom_title=Contribuciones%20de%20Ivan%20Banda&theme=redical&bg_color=6&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ahr7ezcarqu3pbkqyyjoltxxwa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ahr7ezcarqu3pbkqyyjoltxxwa&count=7&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 ###
 
